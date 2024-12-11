@@ -11,22 +11,10 @@ This repository contains set of Jupyter Notebooks for batch metadata processes.
 
 *only needed for `04_clean-validate`
 
-
 ## 01_CSV-2-JSON
 
 * CSV template for OGM Aardvark metadata
 * Jupyter Notebook that transforms the CSV into OGM Aardvark JSONs
-
-
-## 02_JSON-2-CSV
-
-* directory of sample OGM Aardvark JSONs, taken from the OpenGeoMetadata shared repositories.
-* Jupyter Notebook that transforms the JSONs into a CSV
-
-## 03_harvest-DCAT
-
-* CSV listing a few ArcGIS Hubs, including each site's DCAT JSON API and default metadata values
-* Jupyter Notebook that harvests metadata from the ArcGIS Hubs and writes a CSV
 
 ## 04_clean-validate
 
